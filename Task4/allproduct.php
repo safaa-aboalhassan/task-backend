@@ -54,7 +54,7 @@ if (!isset($_SESSION['user']) && !isset($_SESSION['username'])) {
 <body class="back">
   <section class="d-flex flex-row flex-nowrap justify-content-between m-4 back">
     <div class="w-20 m-2">
-      <img class="img" src="img/logo3.jpg" alt="" class="w-100">
+      <img  src="img/logo3.jpg" alt="" class=" w-25">
     </div>
     <h4 class="text-info text-capitalize text-center">Welcome:
       <?php 
